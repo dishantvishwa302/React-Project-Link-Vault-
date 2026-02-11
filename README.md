@@ -10,10 +10,7 @@ A secure, full-stack application.
 
 ### A. Prerequisites
 1.  **MongoDB Atlas**: Get connection string.
-2.  **Supabase**:
-    *   Create project at [database.new](https://database.new).
-    *   Get `SUPABASE_URL` and `SUPABASE_KEY` (**service_role** key).
-    *   Create public bucket `secret-share`.
+2.  **Supabase**: For storing the data on cloud
 
 ### B. Backend
 1.  `cd backend`
@@ -39,4 +36,6 @@ A secure, full-stack application.
 *   **Express**: Handles API and Cloud logic.
 *   **Supabase**: Stores files.
 *   **MongoDB**: Stores metadata.
+
+
 # React-Project-Link-Vault-
